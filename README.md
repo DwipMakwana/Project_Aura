@@ -1,4 +1,4 @@
-# Project AURA-
+# Project AURA
 A new RPG game project for enahnacing skills on Unreal Engine 5 with C++ and Unreal GAS System.
 
 ## Motivation
